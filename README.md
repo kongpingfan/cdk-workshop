@@ -1,2 +1,2 @@
-# cdk-workshop
-中文版cdk workshop
+# aws-workshop-hugo-template
+AWS Workshop Hugo Template
